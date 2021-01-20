@@ -13,3 +13,5 @@ train.csv contains two columns, "emotion" and "pixels". The "emotion" column con
 The training set consists of 28,709 examples. The public test set used for the leaderboard consists of 3,589 examples. The final test set, which was used to determine the winner of the competition, consists of another 3,589 examples.
 
 This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project. They have graciously provided the workshop organizers with a preliminary version of their dataset to use for this contest.
+
+### i used kaggle kernel GPU 
