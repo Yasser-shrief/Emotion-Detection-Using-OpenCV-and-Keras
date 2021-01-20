@@ -18,5 +18,5 @@ This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of 
 
 ## The output : 
 
-![Image of Yaktocat](https://octodex.github.com/images/1.png)
+
 
