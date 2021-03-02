@@ -1,5 +1,5 @@
 # Emotion-Detection-Using-OpenCV-and-Keras
-classify your emotions in real-time using just you camera 
+
 
 ## Objective
 I will create Convolution Neural Network Model from scratch by using Keras for emotion detection using the live camera feed of our system . 
