@@ -2,7 +2,7 @@
 
 
 ## Objective
-Create Convolution Neural Network Model from scratch by using Keras for emotion detection using the live camera feed of our system . 
+Trained Convolution Neural Network Model from scratch using Keras for emotion detection using the live camera feed of our system . 
 
 ## Data Description
 
