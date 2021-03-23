@@ -1,4 +1,4 @@
-# Emotion-Detection-Using-OpenCV-and-Keras
+# Emotion Detection Using OpenCV and Keras
 
 
 ## Objective
